@@ -22,3 +22,10 @@ const interestRate = 0.3;
 // let interestRate = 0.3
 interestRate = 1;
 console.log(interestRate);
+
+// Primitive Types
+let name = "Mosh"; // String Literal
+let age = 30; // Number literal
+let isApproved = true; // Boolean Literal
+let firstName = undefined;
+let lastName = null;
